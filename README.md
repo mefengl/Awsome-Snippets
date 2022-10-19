@@ -17,6 +17,4 @@ https://github.com/burkeholland/simple-react-snippets
 
 https://github.com/chillios-ts/vscode-react-javascript-snippets
 
-https://github.com/infeng/vscode-react-typescript
-
 https://github.com/hollowtree/vscode-vue-snippets
