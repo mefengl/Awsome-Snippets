@@ -7,7 +7,7 @@ https://github.com/abusaidm/html-snippets
 
 ## JavaScript
 
-https://github.com/xabikos/vscode-javascript
+https://github.com/xabikos/vscode-javascript ⭐️
 
 https://github.com/DonJayamanne/jquerysnippets
 
