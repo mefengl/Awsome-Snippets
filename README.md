@@ -19,7 +19,7 @@ https://github.com/chillios-ts/vscode-react-javascript-snippets
 
 https://github.com/hollowtree/vscode-vue-snippets
 
-## My Config
+## My Snipptes
 
 ```js
 {
