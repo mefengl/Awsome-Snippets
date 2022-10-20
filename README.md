@@ -1,6 +1,6 @@
 # Awsome-Snippets
 
-People should have their own snippets.
+People should have their own snippet.
 
 ## HTML
 https://github.com/abusaidm/html-snippets
